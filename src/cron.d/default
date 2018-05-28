@@ -1,0 +1,1 @@
+*/1 * * * * root /usr/local/bin/php /www/e-chat/yii daemon/logout
